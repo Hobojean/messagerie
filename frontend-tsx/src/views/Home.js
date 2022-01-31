@@ -7,6 +7,7 @@ export default function Home() {
     return(
         <>
             <h1>Let's talk {name}</h1>
+            <button>Log out</button>
         </>
     )
 }
